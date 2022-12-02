@@ -14,8 +14,10 @@ Tell us about your project here
 [Embed the live link of project](https://u2005037.wixsite.com/my-site)
 
 ## How it Works ?
-Explaining the working of project  
-Embed video of project demo
+Basic web application using wix and flask with python anywhere.
+sensors collects data from containers and will make it visible in the my sql platform and with the data we can process for shelf life and quantity measurement.
+our module continously sense the distance, temperature humidity.
+[Embed video of project demo](https://youtu.be/MrujGlzMJ3g)
 
 ## Technologies used
 Front end using WIX and developer tools
@@ -23,11 +25,7 @@ backend PYTHON FLASK
 Data Base MYSQL
 Hosting PYTHONANYWHERE
 
-## How to configure
-Instructions for setting up project
 
-## How to Run
-Instructions for running
 
 ## Other Links
 Provide any other links ( https://www.pythonanywhere.com/user/innohack/shares/a91abf5ef598451abac14a91a3da07d7/ )
