@@ -5,20 +5,23 @@
 Tell us about your project here
 
 ## Team Members
-[1.Team Member 1](enter_github_profile_url)   
-[2.Team Member 2](enter_github_profile_url)   
-[3.Team Member 3](enter_github_profile_url)   
-[4.Team Member 4](enter_github_profile_url)   
+[1.Muhammed Nihal](enter_github_profile_url)   
+[2.Manal Hadi](enter_github_profile_url)   
+[3.Sara Zaha](enter_github_profile_url)   
+ 
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[Embed the live link of project](https://u2005037.wixsite.com/my-site)
 
 ## How it Works ?
 Explaining the working of project  
 Embed video of project demo
 
 ## Technologies used
-List out tech stacks you have used
+Front end using WIX and developer tools
+backend PYTHON FLASK
+Data Base MYSQL
+Hosting PYTHONANYWHERE
 
 ## How to configure
 Instructions for setting up project
@@ -27,4 +30,4 @@ Instructions for setting up project
 Instructions for running
 
 ## Other Links
-Provide any other links ( for eg. Wireframe , UI )
+Provide any other links ( https://www.pythonanywhere.com/user/innohack/shares/a91abf5ef598451abac14a91a3da07d7/ )
