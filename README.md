@@ -1,8 +1,4 @@
-![image](./assets/banner.png)
 
-
-# {Project Name} - MAGNATHON
-Tell us about your project here
 
 ## Team Members
 [1.Muhammed Nihal](enter_github_profile_url)   
